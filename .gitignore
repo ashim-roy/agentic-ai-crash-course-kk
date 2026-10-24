@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.DS_Store
